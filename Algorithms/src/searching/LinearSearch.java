@@ -1,4 +1,4 @@
-package com.algorithms.searching;
+package searching;
 
 import org.junit.Test;
 
